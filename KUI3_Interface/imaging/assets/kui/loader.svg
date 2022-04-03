@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin: auto; background: transparent none repeat scroll 0% 0%; display: block;" width="40px" preserveAspectRatio="xMidYMid" height="20px" viewBox="0 26 100 50">
+<defs>
+  <clipPath id="ldio-z5e1l8ds4j9-cp" x="0" y="0" width="100" height="100">
+    <path d="M81.3,58.7H18.7c-4.8,0-8.7-3.9-8.7-8.7v0c0-4.8,3.9-8.7,8.7-8.7h62.7c4.8,0,8.7,3.9,8.7,8.7v0C90,54.8,86.1,58.7,81.3,58.7z"/>
+  </clipPath>
+</defs>
+<path fill="none" stroke="#5c0468" stroke-width="2.7928" d="M82 63H18c-7.2,0-13-5.8-13-13v0c0-7.2,5.8-13,13-13h64c7.2,0,13,5.8,13,13v0C95,57.2,89.2,63,82,63z"/>
+<g clip-path="url(#ldio-z5e1l8ds4j9-cp)">
+  <g>
+    <rect x="-100" y="0" width="25" height="100" fill="#5c0468"/>
+    <rect x="-75" y="0" width="25" height="100" fill="#fcfcfc"/>
+    <rect x="-50" y="0" width="25" height="100" fill="#5c0468"/>
+    <rect x="-25" y="0" width="25" height="100" fill="#ffffff"/>
+    <rect x="0" y="0" width="25" height="100" fill="#5c0468"/>
+    <rect x="25" y="0" width="25" height="100" fill="#fcfcfc"/>
+    <rect x="50" y="0" width="25" height="100" fill="#5c0468"/>
+    <rect x="75" y="0" width="25" height="100" fill="#ffffff"/>
+    <animateTransform attributeName="transform" type="translate" dur="1s" repeatCount="indefinite" keyTimes="0;1" values="0;100"/>
+  </g>
+</g>
+</svg>
